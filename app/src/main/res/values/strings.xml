@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">NotesMVVM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="btn_add_note">Добавить</string>
+    <string name="start_label">Что использовать?</string>
+    <string name="start_btn_room">ROOM</string>
+    <string name="title">Заметки</string>
+    <string name="toast_enter_name">Введите имя заметки</string>
+    <string name="firebase">FIREBASE</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="toast_wrong_enter">Введите пароль и почту</string>
+</resources>
